@@ -1,0 +1,7 @@
+<suite name="Appium Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="mobile_testing.LoginTest"/>
+        </classes>
+    </test>
+</suite>
